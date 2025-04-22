@@ -66,4 +66,10 @@ It provides a score that closely reflects how a human would perceive the audio q
 It ensures that speech remains understandable after noise has been removed.
 > 🎯 **Best for**: Applications where speech clarity is crucial, such as voice assistants, transcription, and communication systems.
 
+
+SNR: Is the signal clearer?
+
+PESQ: Does it sound better to humans?
+
+STOI: Can people understand the speech better?
 ---
