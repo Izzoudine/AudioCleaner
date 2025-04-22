@@ -46,5 +46,24 @@ This app aims to solve that problem by:
 - Convert free users to **loyal premium users**
 
 ---
+# Audio Noise Reduction Models Comparison
 
-Let me know if you'd like a version with emoji removed, or if you want to turn this into a `README.md` template including setup instructions or tech stack info.
+## Demucs
+- **Focus:** Originally for music source separation, excellent for general noise reduction
+- **Strengths:** Highest quality separation, handles complex noise, MIT license
+- **Limitations:** Computationally intensive, larger model size
+- **Best for:** Projects where quality is the top priority
+
+## DeepFilterNet
+- **Focus:** Speech enhancement and noise suppression
+- **Strengths:** Natural sound preservation, good balance of quality/efficiency
+- **Limitations:** Less effective on non-speech audio
+- **Best for:** Voice recordings, podcasts, and interviews
+
+## RNNoise
+- **Focus:** Real-time voice noise reduction
+- **Strengths:** Extremely lightweight, low latency, runs on minimal hardware
+- **Limitations:** Lower quality than larger models, voice-specific
+- **Best for:** Real-time applications, mobile devices, live communication
+
+Choose **Demucs** for highest quality, **DeepFilterNet** for balanced performance, or **RNNoise** for efficiency and real-time use.
