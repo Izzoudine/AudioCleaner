@@ -1,7 +1,3 @@
-Sure! Here's the English version for your `README.md` file:
-
----
-
 ### 🎯 Model Evaluation Metrics
 
 To assess the performance of the noise reduction model, we selected metrics specifically suited for signal enhancement tasks, combining both objective and perceptual evaluations.
@@ -33,4 +29,3 @@ This approach allows us to:
 
 ---
 
-Let me know if you’d like a matching section about the model architecture or use case description!
