@@ -67,3 +67,13 @@ This app aims to solve that problem by:
 - **Best for:** Real-time applications, mobile devices, live communication
 
 Choose **Demucs** for highest quality, **DeepFilterNet** for balanced performance, or **RNNoise** for efficiency and real-time use.
+
+| Feature | Demucs | DeepFilterNet | RNNoise |
+|---------|--------|---------------|---------|
+| **Primary Focus** | Music/general audio separation | Speech enhancement | Voice communication |
+| **Quality** | ★★★★★ | ★★★★☆ | ★★★☆☆ |
+| **Efficiency** | ★★☆☆☆ | ★★★★☆ | ★★★★★ |
+| **Real-time Capability** | Limited | Good | Excellent |
+| **Model Size** | Large | Medium | Small |
+| **Implementation Complexity** | Medium | Medium | Low |
+| **Best Use Case** | High-quality offline processing | Balanced quality/performance | Real-time applications |
